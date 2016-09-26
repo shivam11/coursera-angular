@@ -46,6 +46,10 @@ function ShoppingListCheckOffService() {
       quantity: "300"
     },
     {
+      name: "Fanta",
+      quantity: "12"
+    },
+    {
       name: "Chocolate",
       quantity: "5"
     }
